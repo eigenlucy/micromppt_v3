@@ -1,0 +1,17 @@
+component STMicroelectronics_SPV1040T:
+    """STMicroelectronics_SPV1040T component"""
+    lcsc_id = "C2969792"
+    manufacturer = "STMicroelectronics"
+    mpn = "SPV1040T"
+    datasheet_url = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2211080730_STMicroelectronics-SPV1040T_C2969792.pdf"
+    designator_prefix = "U"
+
+    # pins
+    signal GND ~ pin 2
+    signal ICTRL_MINUS ~ pin 6
+    signal ICTRL_PLUS ~ pin 7
+    signal LX ~ pin 3
+    signal MPP_SET ~ pin 1
+    signal VCTRL ~ pin 5
+    signal VOUT ~ pin 4
+    signal XSHUT ~ pin 8

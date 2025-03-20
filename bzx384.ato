@@ -1,0 +1,11 @@
+component Nexperia_BZX384_B5V6_115:
+    """Nexperia_BZX384_B5V6_115 component"""
+    lcsc_id = "C179390"
+    manufacturer = "Nexperia"
+    mpn = "BZX384-B5V6,115"
+    datasheet_url = "https://www.lcsc.com/datasheet/lcsc_datasheet_2407241027_Nexperia-BZX384-B5V6-115_C179390.pdf"
+    designator_prefix = "D"
+
+    # pins
+    signal A ~ pin 2
+    signal K ~ pin 1

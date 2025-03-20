@@ -1,0 +1,8 @@
+component DOWO_SD05C_01FTG:
+    """DOWO_SD05C_01FTG component"""
+    lcsc_id = "C5299440"
+    manufacturer = "DOWO"
+    mpn = "SD05C-01FTG"
+    datasheet_url = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2309211435_DOWO-SD05C-01FTG_C5299440.pdf"
+    designator_prefix = "U"
+

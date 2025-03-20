@@ -1,0 +1,8 @@
+component TECH_PUBLIC_SRV05_4_P_T7:
+    """TECH_PUBLIC_SRV05_4_P_T7 component"""
+    lcsc_id = "C19829547"
+    manufacturer = "TECH PUBLIC"
+    mpn = "SRV05-4-P-T7"
+    datasheet_url = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2401191739_TECH-PUBLIC-SRV05-4-P-T7_C19829547.pdf"
+    designator_prefix = "D"
+

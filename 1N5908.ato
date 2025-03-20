@@ -1,0 +1,11 @@
+component STMicroelectronics_1N5908:
+    """STMicroelectronics_1N5908 component"""
+    lcsc_id = "C1665805"
+    manufacturer = "STMicroelectronics"
+    mpn = "1N5908"
+    datasheet_url = "https://datasheet.lcsc.com/lcsc/2201211230_STMicroelectronics-1N5908_C1665805.pdf"
+    designator_prefix = "U"
+
+    # pins
+    signal A ~ pin 2
+    signal K ~ pin 1

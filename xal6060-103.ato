@@ -1,0 +1,8 @@
+component Coilcraft_XAL6060_103MEC:
+    """Coilcraft_XAL6060_103MEC component"""
+    lcsc_id = "C5329540"
+    manufacturer = "Coilcraft"
+    mpn = "XAL6060-103MEC"
+    datasheet_url = "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304031200_Coilcraft-XAL6060-103MEC_C5329540.pdf"
+    designator_prefix = "U"
+

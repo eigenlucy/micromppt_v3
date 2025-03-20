@@ -1,0 +1,12 @@
+component HUASHUO_IRLML5203:
+    """HUASHUO_IRLML5203 component"""
+    lcsc_id = "C518778"
+    manufacturer = "HUASHUO"
+    mpn = "IRLML5203"
+    datasheet_url = "https://www.lcsc.com/datasheet/lcsc_datasheet_2005121032_HUASHUO-IRLML5203_C518778.pdf"
+    designator_prefix = "Q"
+
+    # pins
+    signal D ~ pin 3
+    signal G ~ pin 1
+    signal S ~ pin 2

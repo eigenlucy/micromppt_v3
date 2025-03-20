@@ -8,3 +8,11 @@ paths:
 builds:
   default:
     entry: main.ato:App
+  micromppt:
+    entry: /home/lucy/Documents/atopile/micromppt_v3/micromppt.ato:Micromppt
+dependencies:
+- name: generics
+  version_spec: '@93de318f38c5acb079fb5cfc9d5a06dc5f02b157'
+  link_broken: false
+  path: .ato/modules/generics
+  source:
