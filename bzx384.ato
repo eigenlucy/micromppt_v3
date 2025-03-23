@@ -1,4 +1,4 @@
-component Nexperia_BZX384_B5V6_115:
+component BZX384:
     """Nexperia_BZX384_B5V6_115 component"""
     lcsc_id = "C179390"
     manufacturer = "Nexperia"
